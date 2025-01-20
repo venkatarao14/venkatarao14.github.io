@@ -1,6 +1,6 @@
 const headerHTML = `<div class="navbar">
         <ul>
-        <a href="introduction.html"> Introduction</a>
+        <a href="index.html"> Introduction</a>
         <a href="medical_tests.html">Medical tests</a>    
         <a href="happy_livingtips.html">Happy and healthy living tips</a>   
         <a href="weather_and_seasonal_effects.html">Weather </a>

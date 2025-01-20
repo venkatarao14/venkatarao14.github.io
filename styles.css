@@ -7,13 +7,13 @@ body {
   
   .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #0c120c;
   }
   
   .navbar a {
     float: left;
     font-size: 16px;
-    color: white;
+    color: rgb(98, 192, 221);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -65,3 +65,7 @@ body {
     display: block;
   }
   .active { background-color:#044AA6D}
+
+  .title-med {
+    font-size: medium;
+  }
