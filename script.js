@@ -2,10 +2,10 @@ const headerHTML = `<div class="navbar">
         <ul>
         <a href="index.html"> Introduction</a>
         <a href="medical_tests.html">Medical tests</a>    
-        <a href="happy_livingtips.html">Happy and healthy living tips</a>   
+        <a href="happy_livingtips.html"> Healthy living tips</a>   
         <a href="weather_and_seasonal_effects.html">Weather </a>
         <a href="waterintake.html">Water Intake </a>
-        <a href="emotional_wellness.html">Emotional wellness </a>
+        <a href="emotional_wellness.html">Emotions  </a>
         <a href="spiritual_focus.html">Spiritual focus </a>
         <a href="travelcare.html">Travel care</a>
             <div class="dropdown">
